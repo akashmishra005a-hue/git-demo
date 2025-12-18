@@ -1,2 +1,0 @@
-user name = "akash "
-pass word = "@1222";
