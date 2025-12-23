@@ -1,2 +1,0 @@
-check usser name;
-check user password;
